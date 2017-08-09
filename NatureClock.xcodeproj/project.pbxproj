@@ -12,6 +12,9 @@
 		36B54DF71EF396720046B813 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36B54DF51EF396720046B813 /* Main.storyboard */; };
 		36B54DF91EF396720046B813 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36B54DF81EF396720046B813 /* Assets.xcassets */; };
 		36B54DFC1EF396720046B813 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36B54DFA1EF396720046B813 /* LaunchScreen.storyboard */; };
+		36B54E051EF3AE1B0046B813 /* GlacialIndifference-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 36B54E031EF3AE1B0046B813 /* GlacialIndifference-Bold.otf */; };
+		36B54E061EF3AE1B0046B813 /* GlacialIndifference-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 36B54E041EF3AE1B0046B813 /* GlacialIndifference-Regular.otf */; };
+		36B54E081EF3AF5D0046B813 /* Resources in Resources */ = {isa = PBXBuildFile; fileRef = 36B54E071EF3AF5D0046B813 /* Resources */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		36B54DF81EF396720046B813 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36B54DFB1EF396720046B813 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		36B54DFD1EF396720046B813 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36B54E031EF3AE1B0046B813 /* GlacialIndifference-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GlacialIndifference-Bold.otf"; path = "../../../Downloads/glacial-indifference/GlacialIndifference-Bold.otf"; sourceTree = "<group>"; };
+		36B54E041EF3AE1B0046B813 /* GlacialIndifference-Regular.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "GlacialIndifference-Regular.otf"; path = "../../../Downloads/glacial-indifference/GlacialIndifference-Regular.otf"; sourceTree = "<group>"; };
+		36B54E071EF3AF5D0046B813 /* Resources */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Resources; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +44,7 @@
 		36B54DE51EF396720046B813 = {
 			isa = PBXGroup;
 			children = (
+				36B54E071EF3AF5D0046B813 /* Resources */,
 				36B54DF01EF396720046B813 /* NatureClock */,
 				36B54DEF1EF396720046B813 /* Products */,
 			);
@@ -57,6 +64,8 @@
 				36B54DF11EF396720046B813 /* AppDelegate.swift */,
 				36B54DF31EF396720046B813 /* ViewController.swift */,
 				36B54DF51EF396720046B813 /* Main.storyboard */,
+				36B54E031EF3AE1B0046B813 /* GlacialIndifference-Bold.otf */,
+				36B54E041EF3AE1B0046B813 /* GlacialIndifference-Regular.otf */,
 				36B54DF81EF396720046B813 /* Assets.xcassets */,
 				36B54DFA1EF396720046B813 /* LaunchScreen.storyboard */,
 				36B54DFD1EF396720046B813 /* Info.plist */,
@@ -124,7 +133,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				36B54E051EF3AE1B0046B813 /* GlacialIndifference-Bold.otf in Resources */,
+				36B54E061EF3AE1B0046B813 /* GlacialIndifference-Regular.otf in Resources */,
 				36B54DFC1EF396720046B813 /* LaunchScreen.storyboard in Resources */,
+				36B54E081EF3AF5D0046B813 /* Resources in Resources */,
 				36B54DF91EF396720046B813 /* Assets.xcassets in Resources */,
 				36B54DF71EF396720046B813 /* Main.storyboard in Resources */,
 			);
